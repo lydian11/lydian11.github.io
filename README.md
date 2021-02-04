@@ -1,1 +1,1 @@
-# lydian.github.io
+# Lydian Chromatic Concept Of Puzzle Organisation
