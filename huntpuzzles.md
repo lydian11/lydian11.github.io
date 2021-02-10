@@ -1,5 +1,18 @@
+Here you can find the hunt-style puzzles I've written, in chronological order of being released!
+
 ## DP Puzzle Hunt
-DP Puzzle Hunt was written as a beginner-friendly hunt, aimed at giving newer solvers high-quality but accessible puzzles! Here are the puzzles I wrote / co-wrote for this hunt:
-* [Petal Path](https://dp.puzzlehunt.net/puzzle/petal-path.html)
-* [Finding Friends](https://dp.puzzlehunt.net/puzzle/finding-friends.html)
-* [Nought But A Crossover](https://dp.puzzlehunt.net/puzzle/nought-but-a-crossover.html)
+[DP Puzzle Hunt](https://dp.puzzlehunt.net/) was written as a beginner-friendly hunt, aimed at giving newer solvers high-quality but accessible puzzles! Here are the puzzles I wrote / co-wrote for this hunt:
+* [Petal Path](https://dp.puzzlehunt.net/puzzle/petal-path.html) - [Solution](https://dp.puzzlehunt.net/solution/petal-path.html)
+* [Finding Friends](https://dp.puzzlehunt.net/puzzle/finding-friends.html) - [Solution](https://dp.puzzlehunt.net/solution/finding-friends.html)
+* [Nought But A Crossover](https://dp.puzzlehunt.net/puzzle/nought-but-a-crossover.html)  - [Solution](https://dp.puzzlehunt.net/solution/nought-but-a-crossover.html)
+* [Finding Myself](https://dp.puzzlehunt.net/puzzle/finding-myself.html) - [Solution](https://dp.puzzlehunt.net/solution/finding-myself.html)
+
+## A Gift For Akumu
+[A Gift For Akumu](https://docs.google.com/document/d/1EhV9Lm1jdLhnSYE06V9HHk_iuxfZbsa38l9GRy2l_dg/edit?usp=sharing) was a minihunt written exclusively by me for fellow puzzler Akumu during a Secret Santa puzzle exchange. The hunt is themed around the 2018 indie masterpiece Celeste:
+* [Forsaken City](https://docs.google.com/spreadsheets/d/1QmWCA-LBNAgDprEhBTQQFePJ1lYzv8Kk4tTiPRY01IA/edit?usp=sharing) - [Solution](https://docs.google.com/spreadsheets/d/1haDfMAj0aT03GZmYuxX4ArCZZyx5N3UCHjhC1F39aw4/edit?usp=sharing)
+* [Old Site](https://docs.google.com/spreadsheets/d/13ahTgo7Mgybft0sIJNCGuKnuI23h8c5UAdp1oXj-sxk/edit?usp=sharing) - [Solution](https://docs.google.com/spreadsheets/d/1haDfMAj0aT03GZmYuxX4ArCZZyx5N3UCHjhC1F39aw4/edit?usp=sharing)
+* [Celestial Resort](https://docs.google.com/spreadsheets/d/1rFs4KeO3w6zY4jRfJ37EfBJWT9c5eXn11kKXD0Or6co/edit?usp=sharing) - [Solution](https://docs.google.com/spreadsheets/d/1haDfMAj0aT03GZmYuxX4ArCZZyx5N3UCHjhC1F39aw4/edit?usp=sharing)
+* [Golden Ridge](https://docs.google.com/spreadsheets/d/13uDxGXvFcfCOhoAHYiHfEk5tdiZAwqXmdYaRH5Ny1ro/edit?usp=sharing) - [Solution](https://docs.google.com/spreadsheets/d/1haDfMAj0aT03GZmYuxX4ArCZZyx5N3UCHjhC1F39aw4/edit?usp=sharing)
+* [Mirror Temple](https://docs.google.com/spreadsheets/d/1q7MRSeqGcrCgZ1oC_QvvHxWldg7ZWGs3_WLy4qqxcvc/edit?usp=sharing) - [Solution](https://docs.google.com/spreadsheets/d/1haDfMAj0aT03GZmYuxX4ArCZZyx5N3UCHjhC1F39aw4/edit?usp=sharing)
+* [Reflections](https://docs.google.com/spreadsheets/d/1qpWmOmfLABMNMT6IOMUfgaZbCWgIYYN0QMAocTAxO5E/edit?usp=sharing) - [Solution](https://docs.google.com/spreadsheets/d/1haDfMAj0aT03GZmYuxX4ArCZZyx5N3UCHjhC1F39aw4/edit?usp=sharing)
+* [The Summit](https://docs.google.com/spreadsheets/d/1E4RIyan9TJ2HhXifnV7kgHqqfYLQ6a3p3xmUI-G1CSc/edit?usp=sharing) - [Solution](https://docs.google.com/spreadsheets/d/1haDfMAj0aT03GZmYuxX4ArCZZyx5N3UCHjhC1F39aw4/edit?usp=sharing)
