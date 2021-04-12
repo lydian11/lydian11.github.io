@@ -16,3 +16,7 @@ Here you can find the hunt-style puzzles I've written, in chronological order of
 * [Mirror Temple](https://docs.google.com/spreadsheets/d/1q7MRSeqGcrCgZ1oC_QvvHxWldg7ZWGs3_WLy4qqxcvc/edit?usp=sharing) - [Solution](https://docs.google.com/spreadsheets/d/1haDfMAj0aT03GZmYuxX4ArCZZyx5N3UCHjhC1F39aw4/edit?usp=sharing)
 * [Reflections](https://docs.google.com/spreadsheets/d/1qpWmOmfLABMNMT6IOMUfgaZbCWgIYYN0QMAocTAxO5E/edit?usp=sharing) - [Solution](https://docs.google.com/spreadsheets/d/1haDfMAj0aT03GZmYuxX4ArCZZyx5N3UCHjhC1F39aw4/edit?usp=sharing)
 * [The Summit](https://docs.google.com/spreadsheets/d/1E4RIyan9TJ2HhXifnV7kgHqqfYLQ6a3p3xmUI-G1CSc/edit?usp=sharing) - [Solution](https://docs.google.com/spreadsheets/d/1haDfMAj0aT03GZmYuxX4ArCZZyx5N3UCHjhC1F39aw4/edit?usp=sharing)
+
+## Feedback Fiesta Season 2
+[Feedback Fiesta Season 2](https://sites.google.com/view/feedback-fiesta/puzzles/season-2) was a project I worked on with some friends, in which participants are supposed to write a hunt puzzle out of a given piece of feedback! And this is the puzzle that I ended up making:
+* [Rigged](https://docs.google.com/spreadsheets/d/1Smt-tdesyLHSIpQyZFM-L02tucuWNePMpzbQxdS7c0o/edit?usp=sharing) - [Solution](https://docs.google.com/spreadsheets/d/1OndlpOEdWgaOioXlmUp-Hh7_pqRJAaagbq6jwGkZPjY/edit?usp=sharing)
