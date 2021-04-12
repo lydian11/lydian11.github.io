@@ -1,4 +1,4 @@
-I have created a twitter handle to share my logic puzzles to the world, I'm not an avid solver by any means, but I think I can construct fine puzzles in some genres, especially Yajilin. Here are the logic puzzles I've written:
+I've recenly created a [Twitter handle](https://twitter.com/puzzlydian) to share my logic puzzles to the world, I'm not an avid solver by any means, but I think I can construct fine puzzles in some genres, especially Yajilin. Here are the logic puzzles I've written:
 
 ## 10x10 Yajilins
 * [10x10 Yajilin](https://puzz.link/p?yajilin/b/10/10/h22i3222x4212h3222x1242i42h)
