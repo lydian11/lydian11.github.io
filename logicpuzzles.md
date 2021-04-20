@@ -8,6 +8,7 @@ I've recenly created a [Twitter handle](https://twitter.com/puzzlydian) to share
 * [10x10 Yajilin](https://puzz.link/p?yajilin/b/10/10/g31n2222i41b22l3121l31b0.i320.p0.e)
 * [10x10 Yajilin](https://puzz.link/p?yajilin/b/10/10/w42i22c32i3.d43i12c32i0.m41h12)
 * [10x10 Yajilin](https://puzz.link/p?yajilin/b/10/10/e42t23g42g12f330.f0.g31g31t1.e)
+* [10x10 Yajilin](https://puzz.link/p?yajilin/b/10/10/42p23f0.f43p0.m21p32f0.f14f)
 
 ## Bigger Yajilins
 * [17x17 Yajilin](https://puzz.link/p?yajilin/b/17/17/l0.m26m0.d31h11d0.d33c0.d0.d31h0.d23d0.h0.d0.d13c11d33d21h0.d0.d0.h0.d0.d33c0.d11d0.h4.d31d0.h31d41d21c0.d0.d21h41d33m0.m0.l)
