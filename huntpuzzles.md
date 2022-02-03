@@ -1,7 +1,7 @@
 Here you can find the hunt-style puzzles I've written!
 
-⭐ denotes a puzzle I think is among my best.
-⌛ denotes a puzzle that is time-sensitive and may be outdated.
+* ⭐ denotes a puzzle I think is among my best.
+* ⌛ denotes a puzzle that is time-sensitive and may be outdated.
 
 ## Silph Puzzle Hunt (2021)
 [Silph Puzzle Hunt](https://silphpuzzlehunt.com/) was a puzzlehunt I was part of! Originally Smogon Puzzlehunt, and responsible for introducing me to puzzlehunts, this hunt holds a very special place to me, and it's been an honor writing for it. I authored 6 puzzles and was credited on a 7th:
