@@ -25,9 +25,9 @@ Here you can find the hunt-style puzzles I've written!
 * [Forsaken City](https://docs.google.com/spreadsheets/d/1QmWCA-LBNAgDprEhBTQQFePJ1lYzv8Kk4tTiPRY01IA/edit?usp=sharing) - [Solution](https://docs.google.com/spreadsheets/d/1haDfMAj0aT03GZmYuxX4ArCZZyx5N3UCHjhC1F39aw4/edit?usp=sharing)
 * [Old Site](https://docs.google.com/spreadsheets/d/13ahTgo7Mgybft0sIJNCGuKnuI23h8c5UAdp1oXj-sxk/edit?usp=sharing) - [Solution](https://docs.google.com/spreadsheets/d/1haDfMAj0aT03GZmYuxX4ArCZZyx5N3UCHjhC1F39aw4/edit?usp=sharing)
 * [Celestial Resort](https://docs.google.com/spreadsheets/d/1rFs4KeO3w6zY4jRfJ37EfBJWT9c5eXn11kKXD0Or6co/edit?usp=sharing) - [Solution](https://docs.google.com/spreadsheets/d/1haDfMAj0aT03GZmYuxX4ArCZZyx5N3UCHjhC1F39aw4/edit?usp=sharing)
-* [Golden Ridge](https://docs.google.com/spreadsheets/d/13uDxGXvFcfCOhoAHYiHfEk5tdiZAwqXmdYaRH5Ny1ro/edit?usp=sharing) - [Solution](https://docs.google.com/spreadsheets/d/1haDfMAj0aT03GZmYuxX4ArCZZyx5N3UCHjhC1F39aw4/edit?usp=sharing)
-* [Mirror Temple](https://docs.google.com/spreadsheets/d/1q7MRSeqGcrCgZ1oC_QvvHxWldg7ZWGs3_WLy4qqxcvc/edit?usp=sharing) - [Solution](https://docs.google.com/spreadsheets/d/1haDfMAj0aT03GZmYuxX4ArCZZyx5N3UCHjhC1F39aw4/edit?usp=sharing)
-* [Reflections](https://docs.google.com/spreadsheets/d/1qpWmOmfLABMNMT6IOMUfgaZbCWgIYYN0QMAocTAxO5E/edit?usp=sharing) - [Solution](https://docs.google.com/spreadsheets/d/1haDfMAj0aT03GZmYuxX4ArCZZyx5N3UCHjhC1F39aw4/edit?usp=sharing)
+* ⭐: [Golden Ridge](https://docs.google.com/spreadsheets/d/13uDxGXvFcfCOhoAHYiHfEk5tdiZAwqXmdYaRH5Ny1ro/edit?usp=sharing) - [Solution](https://docs.google.com/spreadsheets/d/1haDfMAj0aT03GZmYuxX4ArCZZyx5N3UCHjhC1F39aw4/edit?usp=sharing)
+* ⭐: [Mirror Temple](https://docs.google.com/spreadsheets/d/1q7MRSeqGcrCgZ1oC_QvvHxWldg7ZWGs3_WLy4qqxcvc/edit?usp=sharing) - [Solution](https://docs.google.com/spreadsheets/d/1haDfMAj0aT03GZmYuxX4ArCZZyx5N3UCHjhC1F39aw4/edit?usp=sharing)
+* ⭐: [Reflections](https://docs.google.com/spreadsheets/d/1qpWmOmfLABMNMT6IOMUfgaZbCWgIYYN0QMAocTAxO5E/edit?usp=sharing) - [Solution](https://docs.google.com/spreadsheets/d/1haDfMAj0aT03GZmYuxX4ArCZZyx5N3UCHjhC1F39aw4/edit?usp=sharing)
 * [The Summit](https://docs.google.com/spreadsheets/d/1E4RIyan9TJ2HhXifnV7kgHqqfYLQ6a3p3xmUI-G1CSc/edit?usp=sharing) - [Solution](https://docs.google.com/spreadsheets/d/1haDfMAj0aT03GZmYuxX4ArCZZyx5N3UCHjhC1F39aw4/edit?usp=sharing)
 
 ## Feedback Fiesta Season 2 (2021)
