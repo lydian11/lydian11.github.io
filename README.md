@@ -2,7 +2,7 @@ Hi, I'm lydian, a puzzler from Brazil! Puzzles (among other stuff) are a huge ho
 
 ### Puzzles:
 * [Hunt Puzzles](https://lydian11.github.io/huntpuzzles.html)
-* Hunt Write-Ups
+* [Hunt Write-Ups](https://lydian11.github.io/huntwriteups.html)
 
 ### Contact Me:
 Feel free to contact me on if you'd like to ask for hints or chat about any of my puzzles!
