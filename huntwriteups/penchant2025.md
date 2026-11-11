@@ -1,5 +1,7 @@
 <sub>Published on September 25th, 2025</sub>
 
+# Solving Penchant Puzzle Hunt (2025)
+
 This post contains unmarked spoilers for Penchant Puzzlehunt.
 
 [Penchant Puzzlehunt](https://penchantpuzzlehunt.com/) was the first puzzle hunt I got do after having my puzzle interest rebirthed, and it *certainly* did not
