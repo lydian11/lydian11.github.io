@@ -1,0 +1,107 @@
+<sub>Published on January 30th, 2026</sub>
+
+# Solving MIT Mystery Hunt (2026)
+
+This post contains unmarked spoilers for MIT Mystery Hunt 2026.
+
+<div align="center">
+  <img src="assets/mitmh26.png" alt="Qyex and Marill">
+</div>
+
+Everyone knows the MIT Mystery Hunt is the final boss of puzzlehunts, and just like any good final boss, the most important part to get the ambience right is a good theme (seriously, listen to Tabuu, Cynthia or Marx's battle themes). And while I personally couldn't think of a theme that would appeal more to me than 2020's Penny Park, as a huge enthusiast of roller coasters and theme parks, I did overlook one possibility: turns out there was only one theme that I could do it for me, and Cardinality chose just the one! When we first got the cryptids theme from The Providence Bureau of Invest-Egg-Ations's Mystery Hatch — which, by the way, was a brilliant hunt! I just didn't make a post because I felt like I didn't have much to say —  I saw many theories circulating about a potential Pokémon-inspired theme for the full hunt, but I decided to keep my hopes low because you never really know with Mystery Hunt themes. But when the fated day came and the Kick-Off made it very clear that Puzzmon were inspired by a certain other monster collecting franchise I'm obsessed with, I was already jumping with joy! Of course, on top of the joy of the theme reveal, the Kick-Off also comes with the joy of "holy shit puzzles will be out in less than an hour"!
+
+Not to get ahead of myself though, I should probably mention that this year I joined the Exotic Creatures of r/PictureGame to hunt, and it was a blast hunting with them! The relatively smaller nature of the team make me feel like I got to see a lot more of the hunt than I got to in prior years on larger teams, although I will also attribute that to my solving skills improving since the last Mystery Hunt I did, and getting to know everyone and hang out before hunt made solving together all the more seamless and fun! I'm looking forward to one day have the chance to participate in Mystery Hunt in person, but the weakness of our currency, earning very little for undergrad research scholarships, and being honestly a bit scared of what the US is doing to people that look like me made hunting in-person this year an impossibility. But I'm hopeful one day the day will come that I can go and meet all of my online friends in-person!
+
+Another thing that I do think I should point out though, is that I ended up having a bit of a cold right during Mystery Hunt weekend, to which you might say "but don't you live in Brazil? Isn't it like 35 °C over there?" to which I'll answer "Yes but I traveled for my summer break and I must've caught it in the airplane on the way back '^^". Thankfully it didn't impact things too much, but I did end up being a bit more scatterbrained than usual and having to sleep like 10 hours to feel more rested instead of my usual 8, which I know, that's a lot of sleep, but I've always needed a lot not to wake up a zombie the next day, so I did really prioritize sleeping, especially with my cold, which I think was the right move, but it did take away more Mystery Hunting hours than I was expecting!
+
+That all aside, let's talk about some puzzles I wanna shout out or that we've had interesting experiences on:
+
+## [Aviaria](https://puzzmon.world/rounds/aviaria)
+
+<div style="margin-left: 30px;">Aviaria was the first round of the hunt, and I was already a bit surprised to see a deviation from a common puzzlehunt standard, the capstone puzzles here did not use feeders as answers, but rather Puzzmon data. On top of the MonQuest and the unique unlocking system chosen here, it was a lot to take in!</div>
+
+<div style="margin-left: 30px;"><h3><a href="https://puzzmon.world/puzzles/replacements">Replacements</a></h3></div>
+
+<div style="margin-left: 60px;">This was the first puzzle I started working on, with phenomist and Sam. I worked on one or two of the Ken Ken and then drifted off leaving one of them with the final step which wasn't parallelizeable. But I still wanted to mention this because I thought it was such an elegant execution! The Ken Ken on the Tech being constructed with two alternate solutions, and the final extraction of `BRACED` playing perfectly with the gimmick of the puzzle, just felt absurdly satisfying, and set a very good first impression for the hunt to come!</div>
+
+<div style="margin-left: 30px;"><h3><a href="https://puzzmon.world/puzzles/bird_nation">Bird Nation</a></h3></div>
+
+<div style="margin-left: 60px;">Of course being on the team of geography fiends that is EC, it didn't take long for quatrevingtneuf to go "hey these kinda look like country flags" and we solved it pretty quickly! I think it was a really elegant introduction to capstones to show us how we can use the Puzzmon data to solve these kinds of puzzles. Of course, I did suspect these answers would be used at a later point, because surely <code>NFL FANS</code> had to feed into something! But it would be a while until I'd find that out!</div>
+
+## [Bubble Cove](https://puzzmon.world/rounds/bubble_cove)
+
+<div style="margin-left: 30px;">It didn't take long for us to unlock a new round, before solving the Bird Nation capstone, but I decided to organize my post by round instead of chronologically, as I think things end up more organized this way! This was the round that I most interacted with MonQuest, and I tried to Find Burnham's Marbles, until I realized that the fishes' hitboxes were way more unforgiving than I was expecting and someone would probably outgamer me on that one. And it was solved by someone else immediately after I gave up, so yeah, my theory was right!</div>
+
+<div style="margin-left: 30px;"><h3><a href="https://puzzmon.world/puzzles/crossloop">Crossloop</a></h3></div>
+
+<div style="margin-left: 60px;">I wanted to talk about this puzzle because while it's not absurdly groundbreaking, it is such a neat idea and it's executed so well! The concept of combining a Simple Loop with a Crossword seems so obvious in hindsight (and maybe it's been done before, but this is the first time I see it, at least) that it just felt nice to solve. This is the kind of puzzle that I'll take away from this hunt as being a great example of a beginner-friendly puzzle to introduce people to the hobby with! Also I will say, I kept breaking the Simple Loop when trying to solve it, until someone else probably got fed up with my slowness, or more likely didn't know I was already working on it (which like, it shouldn't take more than 30 seconds tops anyway, so fair!) and solved it first, and only after we were done with the puzzle, I realized I had mistranscribed one pair of rotationally symmetric squares of the grid into puzzlink, woops!</div>
+
+<div style="margin-left: 30px;"><h3><a href="https://puzzmon.world/puzzles/bringing_up_baby_shark">Bringing Up Baby Shark</a></h3></div>
+
+<div style="margin-left: 60px;">Our team noticed the types of shark inspirations on the fish very quickly, but it took us a little bit more to see the shark phrases being suggested by the descriptions. I pointed out very early on that these descriptions were probably useful for this capstone as they weren't "red herring" descriptions but just "herring" this time, but still we kinda didn't really see the shark phrases for a few minutes and thought the descriptions were just cluing the types of sharks as well. In the meantime before we got the "shark phrases" aha though, I was googling frenetically about Baby Shark and trying to look if there were any variants of it out there with the clued sharks or something of that nature, but thankfully that wasn't actually how the puzzle worked...</div>
+
+## [Old Bark Town](https://puzzmon.world/rounds/old_bark_town)
+
+<div style="margin-left: 30px;">Immediately when we unlocked this round (alongside Kitty City, cute!) I had that "neuron activation" meme thing going on about New Bark Town being a town in Pokémon, so definitely this round's capstone will involve Pokémon, right, right?</div>
+
+<div style="margin-left: 30px;"><h3><a href="https://puzzmon.world/puzzles/balancing_act">Balancing Act</a></h3></div>
+
+<div style="margin-left: 60px;">This is a puzzle we began working on, but kinda slowed down a bit on, given the path of least resistance was elsewhere, and came back to it later on Saturday when the path of least resistance snaked its way back here again. I enjoyed working on the clues and figuring out exactly how to piece together a part of the puzzle as soon as I saw "Roman, e.g." upon opening the puzzle! The actual connection that the letters of the answer matched the number of words in the clue and that that's how extraction worked I wasn't around for, but reading back on the solution I'm just really fascinated by the puzzle! It's such an elegant way to realize the idea! And it makes me appreciate it much more than when I first saw the diagram at the bottom and thought that was the extraction!</div>
+
+
+<div style="margin-left: 30px;"><h3><a href="https://puzzmon.world/puzzles/central_precinct_and_lockup">Central Precinct & Lookup</a></h3></div>
+
+<div style="margin-left: 60px;">As an enjoyer of cryptics despite being horrendously bad at them, I did try to stare at this puzzle for a bit, but then thought my efforts were probably best spent elsewhere (by which I mean staring elsewhere, not necessarily solving elsewhere). That said, I do still want to shout out this puzzle here, because the construction seems so unbelievably tight to make the center work. And the mechanics of extra letters and extra words just working together to make the final step happen is just really awesome! Even if most of this puzzle I didn't experience first-hand, it's still one of the most impressive on the hunt for me!</div>
+
+
+<div style="margin-left: 30px;"><h3><a href="https://puzzmon.world/puzzles/three_dog_night">Three Dog Night</a></h3></div>
+
+<div style="margin-left: 60px;">Me upon seeing this puzzle's title: "Oh my theory was right, three is the number of starter Pokémon that you can choose in New Bark Town, this is totally a Pokémon capstone!" (It was not a Pokémon capstone.) When I actually opened the puzzle and our sheet on it, my teammates had already identified the Blues' Clues and Bluey connections. And we were for the longest time trying to figure out who the third dog was. Paw Patrol was suggested at some point, and it seemed promising that characters had associated numbers, but things just didn't fit. After a long time, some brought up Huckleberry Hound and we managed to get the puzzle solved. I don't feel particularly bad for not being the one to have that aha because I did not know this guy's name in Portuguese, let alone English. I do appreciate though how this puzzle features three different blue dogs from three very different generations (it definitely reminded me how much I used to watch Blue's Clues as a kid!), I think that's kinda neat even if the three-part approach to the puzzle didn't feel as cohesive to me mechanically.</div>
+
+## [Kitty City](https://puzzmon.world/rounds/kitty_city)
+
+<div style="margin-left: 30px;"><h3><a href="https://puzzmon.world/puzzles/night_circus">Night Circus</a></h3></div>
+
+<div style="margin-left: 60px;">I feel really bad for not being able to progress much on this puzzle during hunt. When we opened this puzzle someone had left a note in the Sheet theorizing that each line represented one planet, and that made sense with the theming, and the fact that there were eight of them. The Pokémon fan that I am I got ♂ for Mars immediately, and someone got Saturn shortly after. So everything so far seemed to indicate that these were the 8 planets, but we struggled to get the other symbols to fit... I went to bed and it was solved the next day, but as someone with a special interest in minor planets I was deeply disappointed to find out that I didn't even consider them, when I knew they had unique symbols as well! Alas! I can't really blame the puzzle, I really like it, in fact, but my understanding is that there's no reason why there are exactly 8 examples, and I think choosing a different number would've helped us avoid a red herring at least! Also, since Toutatis has appeared on this puzzle, I need to shout out another one of my special interests and say that it looks like <a href="https://rcdb.com/16327.htm">a really fun roller coaster</a>, and I need to visit Parc Astérix immediately.</div>
+
+<div style="margin-left: 30px;"><h3><a href="https://puzzmon.world/puzzles/watchtower">Watchtower</a></h3></div>
+
+<div style="margin-left: 60px;">Right after Kickoff we got these very puzzle-shaped nametags, so we began solving even before the hunt would start at 13:05 TIMEMIT. Someone originally proposed <code>D.* H.*</code> initials for <code>DUGONG HUG</code>, <code>DOCTOR HAMMER</code>, <code>DRINK HEAVEN</code>, etc, but eventually we realized that <code>M.* H.*</code> and, later, <code>M.{6} H.{5}</code> made a lot more sense! Unfortunately we had no clue how to extract because we didn't notice the stars changed position, so this ended up being our first hint, oops!</div>
+
+<div style="margin-left: 30px;"><h3><a href="https://puzzmon.world/puzzles/nine_lives">Nine Lives</a></h3></div>
+
+<div style="margin-left: 60px;">This capstone actually took us a while, we only solved it on Sunday. I don't know exactly how my teammates interpreted the puzzle, i,e, if they fell into the same rabbit hole I did, but me personally I thought the patterns on the cats were the responses they'd give to all other 18 questions from the other cats, not the responses given to their own questions, and thus, that there would be some way to order the cats to be able to figure out the answers to their twenty questions. So for instance, the first two "'yes' or 'no'"s on the pattern of the first cat, would correspond to the second cat's questions, the third and fourth "'yes' or 'no'"s to the third cat's, and so on... This led us trying to associate the cats from their drawings and names for things with dates that we could order, e.g. when the first episode of Garfield came out... Which obviously didn't really work... Eventually the puzzle got solved while I was asleep. It's always a bit frustrating to find out that a puzzle you were stuck on was leagues more intuitive and logical than whatever kind of mental gymnastics you were doing to try to make it work, hahah! But the puzzle is great, this is one of the many cases where I take full responsibility for being stupid! Although it is just a bit funny that the mathematical coincidence of 9 lives and 20 questions divided in two sets of 2 results in the other possible interpretation I had adding up. The solution to not have that problem while keeping the 9 lives and the 20 questions would have been to have 20 puzzmon instead of 10, each with one question instead of two, but I don't think anyone would've liked that option!</div>
+
+## [Elder Drifts](https://puzzmon.world/rounds/elder_drifts)
+
+<div style="margin-left: 30px;"><h3><a href="https://puzzmon.world/puzzles/shapes">Shapes</a></h3></div>
+
+<div style="margin-left: 60px;">This puzzle, and most of Elder Drifts, for that matter, was solved while I was asleep, but I need to shout it out because it's actually <i>so</i> funny and such a brilliant idea. The mechanical connection between the puzzle and the TikTok it's referencing legit never fails to make me laugh!</div>
+
+## [The Brights](https://puzzmon.world/rounds/the_brights)
+
+<div style="margin-left: 30px;"><h3><a href="https://puzzmon.world/puzzles/lights_down_mode">Lights Down Mode</a></h3></div>
+
+<div style="margin-left: 60px;">I was awake while this was getting solved, but I spent most of my awake hours on Saturday solving another puzzle I'll talk about eventually, so I missed this capstone, still wanna talk about it though... Darkrari is a really fun genre, and an even better name. I've always thought the concept of puzzles that display differently for different people is a rather underexplored concept, so it was cool to see it used in a capstone in such a thematic way, even!</div>
+
+## [Royal Groves](https://puzzmon.world/rounds/royal_groves)
+
+<div style="margin-left: 30px;"><h3><a href="https://puzzmon.world/puzzles/rock_on">Rock On</a></h3></div>
+
+<div style="margin-left: 60px;">I saw a teammate working on this puzzle send an image they'd gotten from one of those browser spectrogram sites on our voice chat's text chat asking for if we saw anything on a very fuzzy image (I didn't see anything, at least), so I offered to use FL Studio to get better images of what was going on and we were able to read the extract from the puzzle! It's a pretty standard fair ISIS puzzle and I like the thematic link to the Green Building, but I just wanted to use this as an excuse to say I like puzzles where I get to open my DAW for!</div>
+
+<div style="margin-left: 30px;"><h3><a href="https://puzzmon.world/puzzles/filial_pie_tree">Filial Pie Tree</a></h3></div>
+
+<div style="margin-left: 60px;">This puzzle got solved while I was asleep from Saturday to Sunday, but I need to talk about it, using Puzzmon evolution and category made me really appreciate the mechanical and thematic tie-in to Pokémon more than other rounds, and the connection to Pokémon that have numbers in other languages did not go unnoticed (e.g. Articuno, Zapdos and Moltres; Deino, Zweilous, Hydreigon; as also indicated by the Author's Notes)! It's just a really cute puzzle, I'm a fan!</div>
+
+## [Eland Islands](https://puzzmon.world/rounds/eland_islands)
+
+<div style="margin-left: 30px;"><h3><a href="https://puzzmon.world/puzzles/keep_going">Keep Going!</a></h3></div>
+
+<div style="margin-left: 60px;">Also didn't solve this one, but I wanted to talk about it, I like the concept of the puzzle a lot, being given incremental steps to figure out a ciphered alphabet is a lot more interesting than it originally seems from just this description, but the main reason I wanted to talk about it is that I'm glad that the authors didn't decide it was a problem from the answer to be kinda guessable. I think obviously this is a bit bad on metas, especially ones that unlock early as used to be tradition for Mystery Hunt, obviously bypassing a whole round is cool for the split moment you do it, but be honest, are you really going back to postsolve it after hunt and managing to organize your at least 30+ person MITMH team to go alongside you? In that sense it can be a bit of a feel-bad for the team bypassing the round too. And in another way, bypassing a meta or capstone of any kind can be a bit of a bummer since they can be the most significant puzzles in a hunt, and them feeling challenging and rewarding is really important for the feel of the hunt, at least to me. But on a feeder, I actually think it's fun to open that door to the answer being guessable, as far as I know our team wasn't one of the ones that cheesed it, but I think it's gotta be such a fun feeling to just have that happen to you, that I'm glad it was kept as is, and ultimately having one feeder have a bit of a chance to be bypassed isn't enough of a dent on the competitive integrity of the hunt enough (or at all) to outweigh the thrill that the few teams that got to bypass it would have, in my opinion!</div>
+
+## [Serpentine Hills](https://puzzmon.world/rounds/serpentine_hills)
+
+<div style="margin-left: 30px;"><h3><a href="https://puzzmon.world/puzzles/australian_caduceus">Australian Caduceus</a></h3></div>
+
+<div style="margin-left: 60px;">It's sunday, the coin has been found, this is the final capstone we need to solve to be able to have the midhunt runaround before HQ closes. While some progress has been done, we're ultimately kind of missing more feeder solves to get there, and the logic of where to place the ladders hasn't been figured out, so I hop in and decide to code something. Before that though, phenomist had used a solver to generate all possible orientations on how to fill the rectangles on the square grid, so I used that output to go through every possibility given the snake positions that we knew, and see which ones worked. In the meantime that we were solving, someone logicking it out manually landed on a configuration which matched the exact one my code was outputting! So far so good, but there was a small problem, while other people working on the puzzle knew that one of the snakes's position wasn't fixed, broken telephone and potentially subpar notation on our sheet and Discord meant that I erroneously thought the snake positions were finalized, which they weren't. There are good news and bad news about this. The good news is that, thankfully, the snake position that I assumed we were certain of, ended up actually being the one that was correct for the puzzle by sheer coincidence! The bad news is that, unfortunately, I made a mistake on my code, see if you can spot it:</div>
