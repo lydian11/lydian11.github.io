@@ -5,7 +5,7 @@
 This post contains unmarked spoilers for MIT Mystery Hunt 2026.
 
 <div align="center">
-  <img src="assets/mitmh26.png" alt="Qyex and Marill">
+  <img src="../assets/mitmh26.png" alt="Qyex and Marill">
 </div>
 
 Everyone knows the MIT Mystery Hunt is the final boss of puzzlehunts, and just like any good final boss, the most important part to get the ambience right is a good theme (seriously, listen to Tabuu, Cynthia or Marx's battle themes). And while I personally couldn't think of a theme that would appeal more to me than 2020's Penny Park, as a huge enthusiast of roller coasters and theme parks, I did overlook one possibility: turns out there was only one theme that I could do it for me, and Cardinality chose just the one! When we first got the cryptids theme from The Providence Bureau of Invest-Egg-Ations's Mystery Hatch — which, by the way, was a brilliant hunt! I just didn't make a post because I felt like I didn't have much to say —  I saw many theories circulating about a potential Pokémon-inspired theme for the full hunt, but I decided to keep my hopes low because you never really know with Mystery Hunt themes. But when the fated day came and the Kick-Off made it very clear that Puzzmon were inspired by a certain other monster collecting franchise I'm obsessed with, I was already jumping with joy! Of course, on top of the joy of the theme reveal, the Kick-Off also comes with the joy of "holy shit puzzles will be out in less than an hour"!
