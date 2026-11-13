@@ -28,7 +28,9 @@ Despite my strong hatred of coffee, as known by my friends over from the ECs at 
 
 ### [Duality II](https://2026.galacticpuzzlehunt.com/puzzle/duality-ii)
 
-<div style="margin-left: 30px;">"Duality II? I thought that was Stacked" was the joke our whole team wanted to make upon unlocking this, but in all seriousness this was very cool and such an elegant construction in so many different ways. Unfortunately it was also solved while I was asleep! <sub>Maybe I'd enjoy puzzlehunts more without having to do this "sleep" thing hmm...</sub></div>
+<div style="margin-left: 30px;">"Duality II? I thought that was Stacked" was the joke our whole team wanted to make upon unlocking this, but in all seriousness this was very cool and such an elegant construction in so many different ways. Unfortunately it was also solved while I was asleep!
+  
+<sub>Maybe I'd enjoy puzzlehunts more without having to do this "sleep" thing hmm...</sub></div>
 
 ### [Realism](https://2026.galacticpuzzlehunt.com/puzzle/realism)
 
