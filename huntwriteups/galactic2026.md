@@ -8,7 +8,7 @@ Despite my strong hatred of coffee, as known by my friends over from the ECs at 
 
 ### [6 7](https://2026.galacticpuzzlehunt.com/puzzle/6-7)
 
-<div style="margin-left: 30px;">Surprisingly polished and interesting idea with a very funny presentation, 10/10 intro puzzle!</div>
+<div style="margin-left: 30px;">Surprisingly polished and interesting idea with a very funny presentation, i would've given it a 10/10 but I think a 6/7 is more apt!</div>
 
 ### [Make Your Own Cheryl's Birthday](https://2026.galacticpuzzlehunt.com/puzzle/make-your-own-cheryls-birthday)
 
