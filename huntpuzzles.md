@@ -1,17 +1,28 @@
 Here you can find the hunt-style puzzles I've written!
 * ⭐ denotes a puzzle I think is among my best.
 * ⌛ denotes a puzzle that is time-sensitive and may be outdated.
-Puzzlehunts listed here are ordered by a combination of how much I contributed, how relevant of an event it was, and how recent the hunt was.
+Puzzlehunts listed here are ordered by a combination of how much I contributed, how relevant of an event it was for me, and how recent the hunt was.
 
-## [Silph Puzzle Hunt (2021)](https://silphpuzzlehunt.com/)
+## [Silph Puzzle Hunt (2021)](http://2021.silphpuzzlehunt.com/)
 
-This was the first major puzzlehunt I wrote for that wasn't targetted at a beginner audience! Originally Smogon Puzzlehunt, and responsible for introducing me to puzzlehunts, this hunt holds a very special place to me and I was very grateful to get the opportunity to write for it:
-* [Color-Coded](https://silphpuzzlehunt.com/puzzle/color-coded) - [Solution](https://silphpuzzlehunt.com/solution/color-coded)
-* [Medal Ceremony](https://silphpuzzlehunt.com/puzzle/medal-ceremony) - [Solution](https://silphpuzzlehunt.com/solution/medal-ceremony)
-* ⭐: [Drop The Cube](https://silphpuzzlehunt.com/puzzle/drop-the-cube) - [Solution](https://silphpuzzlehunt.com/solution/drop-the-cube)
-* ⭐: [Audit Instance](https://silphpuzzlehunt.com/puzzle/audit-instance) - [Solution](https://silphpuzzlehunt.com/solution/audit-instance)
-* ⭐: [Card Sharks](https://silphpuzzlehunt.com/puzzle/card-sharks) - [Solution](https://silphpuzzlehunt.com/solution/card-sharks)
-* ⭐⌛: [⭐ Alliance](https://silphpuzzlehunt.com/puzzle/star-alliance) - [Solution](https://silphpuzzlehunt.com/solution/star-alliance)
+This was the first major puzzlehunt I wrote for that wasn't targetted at a beginner audience! Originally Smogon Puzzle Hunt, and responsible for introducing me to puzzlehunts, this hunt holds a very special place to me and I was very grateful to get the opportunity to write for it:
+* [Color-Coded](https://2021.silphpuzzlehunt.com/puzzle/color-coded) - [Solution](https://2021.silphpuzzlehunt.com/solution/color-coded)
+* [Medal Ceremony](https://2021.silphpuzzlehunt.com/puzzle/medal-ceremony) - [Solution](https://2021.silphpuzzlehunt.com/solution/medal-ceremony)
+* ⭐: [Drop The Cube](https://2021.silphpuzzlehunt.com/puzzle/drop-the-cube) - [Solution](https://2021.silphpuzzlehunt.com/solution/drop-the-cube)
+* ⭐: [Audit Instance](https://2021.silphpuzzlehunt.com/puzzle/audit-instance) - [Solution](https://2021.silphpuzzlehunt.com/solution/audit-instance)
+* ⭐: [Card Sharks](https://2021.silphpuzzlehunt.com/puzzle/card-sharks) - [Solution](https://2021.silphpuzzlehunt.com/solution/card-sharks)
+* ⭐⌛: [⭐ Alliance](https://2021.silphpuzzlehunt.com/puzzle/star-alliance) - [Solution](https://2021.silphpuzzlehunt.com/solution/star-alliance)
+
+* ## [Silph Puzzle Hunt (2025)](https://silphpuzzlehunt.com/)
+
+The sequel to the first Silph Puzzle Hunt, I didn't contribute to this one as much as I was having a bit of a burn-out from puzzles, but I did generate 2 ideas that my good friend Level 51 refined into great puzzles and wrote:
+* [Motion Capture](https://silphpuzzlehunt.com/puzzle/motion-capture) - [Solution](https://silphpuzzlehunt.com/solution/motion-capture)
+* [Plaintext Adventure](https://silphpuzzlehunt.com/puzzle/plaintext-adventure) - [Solution](https://silphpuzzlehunt.com/solution/plaintext-adventure)
+
+* ## [LN Hunt (2025)](https://ln-hunt.com/)
+
+I was invited to help on this hunt by kt3, similar to Silph 2025, I was quite burned out during most of this hunt's long writing process, but I did have one idea make it:
+* [Did You Mean?](https://ln-hunt.com/puzzles/did-you-mean) - [Solution](https://ln-hunt.com/solution/did-you-mean)
 
 ## [DP Puzzle Hunt (2020)](https://dp.puzzlehunt.net/)
 
@@ -26,7 +37,7 @@ This was a minihunt written exclusively by me for fellow puzzler Akumu during a 
 * [Forsaken City](https://docs.google.com/spreadsheets/d/1QmWCA-LBNAgDprEhBTQQFePJ1lYzv8Kk4tTiPRY01IA/edit?usp=sharing) - [Solution](https://docs.google.com/spreadsheets/d/1haDfMAj0aT03GZmYuxX4ArCZZyx5N3UCHjhC1F39aw4/edit?usp=sharing)
 * [Old Site](https://docs.google.com/spreadsheets/d/13ahTgo7Mgybft0sIJNCGuKnuI23h8c5UAdp1oXj-sxk/edit?usp=sharing) - [Solution](https://docs.google.com/spreadsheets/d/1haDfMAj0aT03GZmYuxX4ArCZZyx5N3UCHjhC1F39aw4/edit?usp=sharing)
 * [Celestial Resort](https://docs.google.com/spreadsheets/d/1rFs4KeO3w6zY4jRfJ37EfBJWT9c5eXn11kKXD0Or6co/edit?usp=sharing) - [Solution](https://docs.google.com/spreadsheets/d/1haDfMAj0aT03GZmYuxX4ArCZZyx5N3UCHjhC1F39aw4/edit?usp=sharing)
-* ⭐: [Golden Ridge](https://docs.google.com/spreadsheets/d/13uDxGXvFcfCOhoAHYiHfEk5tdiZAwqXmdYaRH5Ny1ro/edit?usp=sharing) - [Solution](https://docs.google.com/spreadsheets/d/1haDfMAj0aT03GZmYuxX4ArCZZyx5N3UCHjhC1F39aw4/edit?usp=sharing)
-* ⭐: [Mirror Temple](https://docs.google.com/spreadsheets/d/1q7MRSeqGcrCgZ1oC_QvvHxWldg7ZWGs3_WLy4qqxcvc/edit?usp=sharing) - [Solution](https://docs.google.com/spreadsheets/d/1haDfMAj0aT03GZmYuxX4ArCZZyx5N3UCHjhC1F39aw4/edit?usp=sharing)
-* ⭐: [Reflections](https://docs.google.com/spreadsheets/d/1qpWmOmfLABMNMT6IOMUfgaZbCWgIYYN0QMAocTAxO5E/edit?usp=sharing) - [Solution](https://docs.google.com/spreadsheets/d/1haDfMAj0aT03GZmYuxX4ArCZZyx5N3UCHjhC1F39aw4/edit?usp=sharing)
+* [Golden Ridge](https://docs.google.com/spreadsheets/d/13uDxGXvFcfCOhoAHYiHfEk5tdiZAwqXmdYaRH5Ny1ro/edit?usp=sharing) - [Solution](https://docs.google.com/spreadsheets/d/1haDfMAj0aT03GZmYuxX4ArCZZyx5N3UCHjhC1F39aw4/edit?usp=sharing)
+* [Mirror Temple](https://docs.google.com/spreadsheets/d/1q7MRSeqGcrCgZ1oC_QvvHxWldg7ZWGs3_WLy4qqxcvc/edit?usp=sharing) - [Solution](https://docs.google.com/spreadsheets/d/1haDfMAj0aT03GZmYuxX4ArCZZyx5N3UCHjhC1F39aw4/edit?usp=sharing)
+* [Reflections](https://docs.google.com/spreadsheets/d/1qpWmOmfLABMNMT6IOMUfgaZbCWgIYYN0QMAocTAxO5E/edit?usp=sharing) - [Solution](https://docs.google.com/spreadsheets/d/1haDfMAj0aT03GZmYuxX4ArCZZyx5N3UCHjhC1F39aw4/edit?usp=sharing)
 * [The Summit](https://docs.google.com/spreadsheets/d/1E4RIyan9TJ2HhXifnV7kgHqqfYLQ6a3p3xmUI-G1CSc/edit?usp=sharing) - [Solution](https://docs.google.com/spreadsheets/d/1haDfMAj0aT03GZmYuxX4ArCZZyx5N3UCHjhC1F39aw4/edit?usp=sharing)
