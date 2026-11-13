@@ -13,13 +13,13 @@ This was the first major puzzlehunt I wrote for that wasn't targetted at a begin
 * ⭐: [Card Sharks](https://2021.silphpuzzlehunt.com/puzzle/card-sharks) - [Solution](https://2021.silphpuzzlehunt.com/solution/card-sharks)
 * ⭐⌛: [⭐ Alliance](https://2021.silphpuzzlehunt.com/puzzle/star-alliance) - [Solution](https://2021.silphpuzzlehunt.com/solution/star-alliance)
 
-* ## [Silph Puzzle Hunt (2025)](https://silphpuzzlehunt.com/)
+## [Silph Puzzle Hunt (2025)](https://silphpuzzlehunt.com/)
 
 The sequel to the first Silph Puzzle Hunt, I didn't contribute to this one as much as I was having a bit of a burn-out from puzzles, but I did generate 2 ideas that my good friend Level 51 refined into great puzzles and wrote:
 * [Motion Capture](https://silphpuzzlehunt.com/puzzle/motion-capture) - [Solution](https://silphpuzzlehunt.com/solution/motion-capture)
 * [Plaintext Adventure](https://silphpuzzlehunt.com/puzzle/plaintext-adventure) - [Solution](https://silphpuzzlehunt.com/solution/plaintext-adventure)
 
-* ## [LN Hunt (2025)](https://ln-hunt.com/)
+## [LN Hunt (2025)](https://ln-hunt.com/)
 
 I was invited to help on this hunt by kt3, similar to Silph 2025, I was quite burned out during most of this hunt's long writing process, but I did have one idea make it:
 * [Did You Mean?](https://ln-hunt.com/puzzles/did-you-mean) - [Solution](https://ln-hunt.com/solution/did-you-mean)
