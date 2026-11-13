@@ -4,7 +4,7 @@
 
 This post contains unmarked spoilers for Galactic Puzzlehunt 2026.
 
-Despite my strong hatred of coffee, as known by my friends over from the ECs at /r/PG, I was very excited for another GPH in the horizon and the opportunity to hunt with my friends. Here are some puzzles I have things to talk about or an interesting experience of ours to highlight:
+Despite my strong hatred of coffee, as known by my friends over from the Eventual Comeback of /r/PictureGame, I was very excited for another GPH in the horizon and the opportunity to hunt with my friends. Here are some puzzles I have things to talk about or an interesting experience of ours to highlight:
 
 ### [6 7](https://2026.galacticpuzzlehunt.com/puzzle/6-7)
 
