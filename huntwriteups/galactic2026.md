@@ -1,4 +1,4 @@
-<sub>Published on November ??th, 2026</sub>
+<sub>Published on November 13th, 2026</sub>
 
 # Solving Galactic Puzzle Hunt (2026)
 
@@ -22,7 +22,7 @@ Despite my strong hatred of coffee, as known by my friends over from the ECs at 
 
 <div style="margin-left: 30px;">I thought the Wordle puzzle fad was over, but I'm glad to see it wasn't because this was a really fresh take on it! The final extraction was very neat and satisfying.</div>
 
-### [[•][→↘][↑↑][↙][←↖][↑↖] [↓↓][↖][←][↑↗][↑][→→][↓↙][↓↙][←↙][↓↘]](https://2026.galacticpuzzlehunt.com/puzzle/arrows)
+### [[•][→↘&#xFE0E;][↑↑][↙][←↖&#xFE0E;][↑↖&#xFE0E;] [↓↓][↖&#xFE0E;][←][↑↗][↑][→→][↓↙][↓↙][←↙][↓↘&#xFE0E;]](https://2026.galacticpuzzlehunt.com/puzzle/arrows)
 
 <div style="margin-left: 30px;">This was solved while I was asleep but it's such a cool idea! I'm really disappointed the title isn't Unicode characters but I tried my best here anyway. Also I don't believe the author's notes that the construction isn't as constrained as I think, I'm pretty sure it's exactly as constrained as I think it is!</div>
 
@@ -58,7 +58,14 @@ Despite my strong hatred of coffee, as known by my friends over from the ECs at 
 
 <div style="margin-left: 30px;">I don't know how many people know this, but due to the <a href="https://en.wikipedia.org/wiki/Axial_precession">axial precession</a> of the Earth, the constellations that all celestial bodies appear in from Earth, are slightly offset than they were in the olden days when the zodiac was invented. So that means that when you say "Venus is in Aries", if you physically look up at the sky, you might see Venus is actually in Taurus from our perspective here on earth instead. And naturally with Lam being such a scientifically-minded and skeptic person, she would misunderstand Camille and for her we actually have to check where the actual planets were according to the IAU constellation borders, it makes perfect sense, right? Nevermind these weird symbols in the puzzle that I have no idea what they are though. Except it wasn't it, of course, after <i>a lot</i> of scattered attempts by me to make this work, we ended up having to ask a hint and learned that you can look at people's astrological signs together, I didn't know that was a thing and apparently neither did any of us, but the hint got us unstuck. Very cool meta but I can't help but wish the version I hallucinated was the one actually used, hahaha '^^</div>
 
-
 ### [Goodbye](https://2026.galacticpuzzlehunt.com/puzzle/goodbye)
 
-<div style="margin-left: 30px;">I was about to leave for a VGC (competitive Pokémon) local tournament when we unlocked this, but seeing what the capstone actually was, I feel like it wouldn't've played much to my strengths at all, this is exactly the kind of thing I am horrible at, reading a lot of text and like interpreting things, and piecing them together, just not my forte. Thankfully my teammates persevered, and so did I:</div>
+<div style="margin-left: 30px;">I was about to leave for a VGC (competitive Pokémon) local tournament when we unlocked this, but seeing what the capstone actually was, I feel like it wouldn't've played much to my strengths at all, this is exactly the kind of thing I am horrible at, reading a lot of text and like interpreting things, and piecing them together, just not my forte. Thankfully my teammates persevered, and so did I:</div><br>
+
+<div align="center" style="margin-left: 30px;"><img src="../assets/goodbye-1.png" alt="1st place trophy for a Pokémon VGC League Cup, displaying Mew and Mewtwo"></div><br>
+
+All in all, this was a fantastic hunt. Our team was very stacked so we were among the first few teams to finish which was a very new experience to me! I don't think this hunt had quite the impact Galactic Puzzle Hunt 2025 had for me, due to the fact I was coming out of a puzzlehunt burnout then and it was exactly what I needed at that time to reignite my passion wholeheartedly. Still, this hunt came at a great time (any GPH anytime is extremely welcome) and it was such a blast reuniting with my EC friends for a solve!
+
+Speaking of friends, all the characters in this hunt were written so impeccably, I was surprised reading from the wrap-up with how little time advance all the dialogue was fleshed out, because they all seemed so well-written and genuine. I think it's a good sign how well this hunt's story and characters were done that I genuinely felt like I wanted to hang out with them after it was done.
+
+Thanks for the hunt as always Galactic, I am a huge fan of y'all's puzzles and I'm looking forward to next time's reunion!
