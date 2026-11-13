@@ -16,7 +16,7 @@ Despite my strong hatred of coffee, as known by my friends over from the ECs at 
 
 ### [Stacked](https://2026.galacticpuzzlehunt.com/puzzle/stacked)
 
-<div style="margin-left: 30px;">I've recently finished my ECPH2 postsolve, so duality was very fresh in my mind. Given the rest of the group I was writing with also comprised many ECPH2 writers, this was basically an aha-less puzzle for us, but it was still quite cool! Especially because as far as I understand this 3-cuboid net was a recent mathematical breakthrough, so this puzzle couldn't've been written in late 2024, or well, at least not without a mathematical breakthrough of its own during the writing phase.</div>
+<div style="margin-left: 30px;">I've recently finished my ECPH2 postsolve, so <a href="https://2024.ecph.site/puzzle/duality">Duality</a> was very fresh in my mind. Given the rest of the group I was writing with also comprised many ECPH2 writers, this was basically an aha-less puzzle for us, but it was still quite cool! Especially because as far as I understand this 3-cuboid net was a recent mathematical breakthrough, so this puzzle couldn't've been written in late 2024, or well, at least not without a mathematical breakthrough of its own during the writing phase.</div>
 
 ### [Wordtris](https://2026.galacticpuzzlehunt.com/puzzle/wordtris)
 
