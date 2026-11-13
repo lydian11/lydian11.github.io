@@ -50,7 +50,7 @@ Despite my strong hatred of coffee, as known by my friends over from the ECs at 
 
 ### [Figuration](https://2026.galacticpuzzlehunt.com/puzzle/figuration)
 
-<div style="margin-left: 30px;">Speaking of gender, I was also getting very cisn't vibes from Dawn, I just elected to not say anything, and it looks like so did the whole rest of my team, so the "trans" part of the aha was gettable enough. We did red herring ourselves a lot by thinking of the trans flag as a grid, and not an ordering of indices, though, oops! We ended up having to hint this, but this is just an apt allegory of the process of having to ask your friends for help in the arduous process of uncovering your gender, or something!</div>
+<div style="margin-left: 30px;">Speaking of gender, I was also getting very cisn't vibes from Dawn, I just elected to not say anything, and it looks like so did the whole rest of my team until we unlocked this puzzle, at which point we basically spoke our minds in unison about how she was trans, so that of the aha was quite gettable for us! We did red herring ourselves a lot by thinking of the trans flag as a grid, and not an ordering of indices, though, oops! We ended up having to hint this, but this is just an apt allegory of the process of having to ask your friends for help in the arduous process of uncovering your gender, or something!</div>
 
 ### [Menu Update](https://2026.galacticpuzzlehunt.com/puzzle/menu-update)
 
