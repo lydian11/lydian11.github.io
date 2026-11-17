@@ -62,7 +62,7 @@ Despite my strong hatred of coffee, as known by my friends from the Eventual Com
 
 ### [Goodbye](https://2026.galacticpuzzlehunt.com/puzzle/goodbye)
 
-<div style="margin-left: 30px;">I was about to leave for a VGC (competitive Pokémon) local tournament when we unlocked this, but seeing what the capstone actually was, I feel like it wouldn't've played much to my strengths at all, this is exactly the kind of thing I am horrible at, reading a lot of text and like interpreting things, and piecing them together, just not my forte. Thankfully my teammates persevered, and so did I:</div><br>
+<div style="margin-left: 30px;">I was about to leave for a VGC (competitive Pokémon) local tournament when we unlocked this, but seeing what the capstone actually was, I feel like it wouldn't've played much to my strengths at all, despite it being a very cohesive finish to such a story-driven hunt, this is exactly the kind of thing I am horrible at, reading a lot of text and like interpreting things, and piecing them together, just not my forte. Thankfully my teammates persevered, and so did I:</div><br>
 
 <div align="center" style="margin-left: 30px;"><img src="../assets/goodbye-1.png" alt="1st place trophy for a Pokémon VGC League Cup, displaying Mew and Mewtwo"></div><br>
 
